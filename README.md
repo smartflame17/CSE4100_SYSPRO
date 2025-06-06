@@ -7,3 +7,6 @@ Create a shell-like interface for handling data structures such as linked lists,
 
 ## Project 2 MyShell ##
 Create a shell with basic functions such as pipelining, job handling
+
+## Project 3 Concurrent Stock Server ##
+Create a stock server that can handle requests from multiple clients concurrently
