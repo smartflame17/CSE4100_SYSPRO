@@ -10,3 +10,6 @@ Create a shell with basic functions such as pipelining, job handling
 
 ## Project 3 Concurrent Stock Server ##
 Create a stock server that can handle requests from multiple clients concurrently
+
+## Project 4 Dynamic Memory Allocator ##
+Create a heap memory allocator behaving similar to malloc() in libc, using explicit free block lists
